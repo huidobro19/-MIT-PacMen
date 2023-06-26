@@ -12,7 +12,7 @@ Si deseas reiniciar el juego, simplemente actualiza la página en tu navegador.
 # Roadmap of future work
 Agregar efectos de sonido y música de fondo para mejorar la inmersión del jugador y hacer que el juego sea más atractivo auditivamente.
 
-#license information
+# license information
 Copyright (c) 2023 Paula Huidobro
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
