@@ -3,12 +3,15 @@
 Juego web que genera PacMans aleatorios. Al presionar botones, agrega nuevos PacMans y inicia su movimiento en el juego.
 
 # How to run 
-Abre el archivo "Index.html" en tu navegador. Una vez cargada la página, verás dos botones: "Add pacman" y "Start game". Para añadir un "Pacman" a la interfaz, simplemente haz clic en el primer botón. Esto agregará elementos a la pantalla utilizando el Modelo de Objetos del Documento (DOM).
+```bash
+# Clone este proyecto
+$ git clone https://github.com/betoje/0107-PacMenFactory.git
 
-Para comenzar el juego de los "Pacman", haz clic en el botón "Start game". Al hacerlo, cada elemento recibirá una velocidad y dirección aleatoria. Los "Pacman" cambiarán de dirección solo cuando alcancen los límites de la pantalla.
+# Acceda al directorio
+$ cd 0107-PacMenFactory
 
-Si deseas reiniciar el juego, simplemente actualiza la página en tu navegador.
-
+# Arrastre el archvo index.html a su navegador de elección
+```
 # Roadmap of future work
 Agregar efectos de sonido y música de fondo para mejorar la inmersión del jugador y hacer que el juego sea más atractivo auditivamente.
 
